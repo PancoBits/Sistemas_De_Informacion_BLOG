@@ -1,0 +1,28 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>Blog de Sistemas de Información</h1>
+            <p>
+                Bienvenidos al blog de la materia <strong>Sistemas de Información</strong>, creado por <strong>Jeann Rodríguez</strong>.
+                En este espacio se publicarán las distintas tareas a lo largo del semestre.
+            </p>
+            <p>
+                Comenzamos con un <strong>glosario interactivo</strong> que servirá como referencia para los conceptos
+                vistos en la materia. A partir de ahí iré subiendo las demás tareas y materiales relacionados.
+            </p>
+		</main>
+		<Footer />
+	</body>
+</html>

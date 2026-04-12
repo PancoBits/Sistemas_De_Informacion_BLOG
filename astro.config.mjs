@@ -8,7 +8,7 @@ import remarkMarkmap from 'remark-markmap';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://PancoBits.github.io',
-  	base: 'Sistemas_De_Informacion_BLOG',
+  	base: '/Sistemas_De_Informacion_BLOG/',
 	integrations: [mdx(), sitemap()],
 	markdown: {
 		remarkPlugins: [

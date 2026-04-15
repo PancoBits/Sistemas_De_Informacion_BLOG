@@ -1,7 +1,7 @@
 ---
 title: 'Fase 3 - Implementación de Tipos de Sistemas'
 description: 'Implementación de Tipos de Sistemas'
-pubDate: 'Dec 10 2025'
+pubDate: 'Dec 08 2025'
 heroImage: '../../assets/fase3.svg'
 ---
 

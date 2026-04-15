@@ -1,7 +1,7 @@
 ---
 title: 'Fase 2 - Modelado de Componentes del Sistema'
 description: 'Modelado de Componentes del Sistema'
-pubDate: 'Dec 10 2025'
+pubDate: 'Dec 07 2025'
 heroImage: '../../assets/fase2.svg'
 ---
 

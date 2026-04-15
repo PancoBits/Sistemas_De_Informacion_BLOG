@@ -1,7 +1,7 @@
 ---
 title: 'Fase 4 - Ciclo de Vida del Desarrollo'
 description: 'Ciclo de Vida del Desarrollo'
-pubDate: 'Dec 10 2025'
+pubDate: 'Dec 09 2025'
 heroImage: '../../assets/fase4.svg'
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Glosario'
 description: 'Glosario Sistemas de Información'
-pubDate: 'Dec 10 2025'
+pubDate: 'Dec 06 2025'
 heroImage: '../../assets/glosario.webp'
 ---
 

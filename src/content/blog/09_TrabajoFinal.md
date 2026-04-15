@@ -98,4 +98,4 @@ El sistema busca ser intuitivo y usable.
 * **6.3. Mockups Finales:** Diseñados en Figma para asegurar una experiencia óptima.
 
 ![Mockup de Interfaz Móvil](../../assets/MockupMobile.png)
-![Desktop Mockup de Interfaz](../../assets/mockup.png)
+![Desktop Mockup de Interfaz](../../assets/Mockup.png)
